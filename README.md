@@ -51,6 +51,8 @@ The model classifies companies into three ESG risk categories:
 ### ESG Risk Distribution
 
 ![ESG Risk Distribution](esg_risk_distribution.png)
+
+
 The distribution highlights variation in corporate environmental exposure, providing a simplified framework for ESG-based lending risk screening.
 
 ## Applications
