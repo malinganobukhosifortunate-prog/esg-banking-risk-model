@@ -40,14 +40,17 @@ Total observations analysed: **550,000+ records**
 - Google Colab
 
 ## Output
+## Output
 
-The model produces a corporate ESG risk classification dataset used to simulate environmental risk exposure in banking and investment portfolios.
-
-Example output:
+The model classifies companies into three ESG risk categories:
 
 - Low ESG Risk
 - Medium ESG Risk
 - High ESG Risk
+
+### ESG Risk Distribution
+
+![ESG Risk Distribution](esg_risk_distribution.png)
 
 
 ## Applications
