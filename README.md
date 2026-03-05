@@ -55,14 +55,30 @@ The model classifies companies into three ESG risk categories:
 
 The distribution highlights variation in corporate environmental exposure, providing a simplified framework for ESG-based lending risk screening.
 
-## Applications
+## Key Insights
 
-This project demonstrates how ESG analytics can support:
+• Companies with higher greenhouse gas emissions tend to fall into the High ESG Risk category.  
+• The ESG risk scoring model provides a simplified framework for identifying environmentally exposed firms.  
+• ESG risk classification can support responsible lending decisions in sustainable finance frameworks.  
 
-- Sustainable finance risk assessment  
-- Environmental risk modelling  
-- Responsible lending frameworks  
-- ESG-based portfolio screening
+## Real-World Applications
+
+This analysis demonstrates how ESG and sustainability data can support:
+
+• Responsible lending and credit risk screening  
+• ESG portfolio construction  
+• Sustainable investment strategy evaluation  
+• Climate-related financial risk analysis.
+
 
 ## Repository Structure
 
+project-name
+│
+├── analysis_notebook.ipynb
+├── results_dataset.csv
+├── visualisations
+│   ├── risk_distribution.png
+│   ├── risk_return_plot.png
+│
+└── dataset_source.txt
