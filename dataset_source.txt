@@ -1,0 +1,11 @@
+Dataset Source
+
+Fortune 500 ESG Metrics Dataset
+
+The dataset contains corporate ESG disclosures including greenhouse gas emissions, environmental metrics, and sustainability indicators across Fortune 500 companies.
+
+Source:
+https://www.kaggle.com/
+
+Note:
+Due to size limitations, the full dataset is not stored in this repository.
