@@ -1,4 +1,4 @@
-# ESG Banking Risk Model
+# 📊 ESG Risk Scoring Model for Banking Analytics
 
 This project builds a corporate ESG risk scoring model using sustainability metrics from Fortune 500 companies. The objective is to simulate how banks and financial institutions assess environmental risk exposure when making lending or investment decisions.
 
